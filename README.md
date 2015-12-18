@@ -1,14 +1,12 @@
 # CarouseLite
 A very light carousel that needs some work. 
 
-Problem:
+## Problem:
 The more profiles added, the more inaccurate the caclulations become.
 
-To use:
-
-Dependencies:
-jQuery
-jQuery mobile
-
+## Dependencies
+ - jquery
+ - jquery mobile
+ - 
 Follow html structure of working example:
 [Pen](http://codepen.io/caesura/pen/WrwMXv)
