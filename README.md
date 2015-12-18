@@ -6,7 +6,7 @@ The more profiles added, the more inaccurate the caclulations become.
 
 To use:
 
-Dependencies:
+  Dependencies:
 
 jQuery
 
