@@ -6,12 +6,9 @@ The more profiles added, the more inaccurate the caclulations become.
 
 To use:
 
-  Dependencies:
-
+Dependencies:
 jQuery
-
 jQuery mobile
 
 Follow html structure of working example:
-
 http://codepen.io/caesura/pen/WrwMXv
