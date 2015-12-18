@@ -1,4 +1,4 @@
-# lightCarousel
+# CarouseLite
 A very light carousel that needs some work. 
 
 Problem:
