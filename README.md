@@ -11,4 +11,4 @@ jQuery
 jQuery mobile
 
 Follow html structure of working example:
-http://codepen.io/caesura/pen/WrwMXv
+[Pen](http://codepen.io/caesura/pen/WrwMXv)
