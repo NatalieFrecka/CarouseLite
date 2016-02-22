@@ -19,19 +19,19 @@
 		transition: left 0.3s linear;
 
 		.profile {
-		    display: flex;
-		    flex-direction: column;
-		    min-width: 20%;
-		    justify-content: space-between;
-		    align-items: center;
-		    align-self: center;
-		    cursor: pointer;
+			display: block;
+			min-width: 20%;
+			align-self: center;
+			cursor: pointer;
 
-		    .picture {
-		    	width: 75%;
-		    	border-radius: 100%;
-		    	transition: width 0.3s ease;
-		    }
+			.picture {
+				width: 75%;
+				display: block;
+				margin: 0 auto;
+				border-radius: 100%;
+				box-shadow: 2px 2px 4px #808080;
+				transition: width 0.3s ease;
+			}
 
 		    &.active {
 		    	transition: left 0.3s ease;
